@@ -11,4 +11,4 @@ This Project was created with the ideia to automate the process of split, encrip
 **This is the final User Manual:**
 [Wages Receipts Splitter – REST API Manual.pdf](https://github.com/DanielDuarte-Developer/SpringAPI/files/10346055/Wages.Receipts.Splitter.REST.API.Manual.pdf)
 
-## I Would to thank my colleagues Daniel and Nelson  
+## I Would like to thank my colleagues Daniel and Nelson
